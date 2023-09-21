@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <link rel="stylesheet" href="style.css">
+    <title>RACOONS</title>
+    <h1>TYPES OF RACOONS</h1>
+    <h3>below are types of racoons</h3> <link rel="stylesheet" href="style.css">
+    <ul> <link rel="stylesheet" href="style.css">
+      <li>guadelope racoons</li>
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcSoXg8fP79ox6jeKoEwHCLs9i3iqnfhY5ooqMgPhibZs_iamwHU3oWTow8y_YFNtmb2uJDCUkUMLnhjEJc&psig=AOvVaw1Dvv9iVTJ1GqFauGBUCxrU&ust=1695321460306000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIjpld3quYEDFQAAAAAdAAAAABAE" height="375" width="350"/>
+      <figcaption>this racoon is cool</figcaption>       
+      <li>tres marias racoons</li>
+      <li></li>
+    </ul>
+  </body>
+</html>
